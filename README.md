@@ -1,4 +1,4 @@
-# configuration-manager-roaming
+# LMS-CODE_CANVAS_WEB_APPLICATION
 
 #lerna-example:
 run frontend project: yarn lerna run --scope=config-manager-frontend dev
